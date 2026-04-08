@@ -1,0 +1,30 @@
+/* Apply style to whole page */
+body {
+  background-color: #f4f4f4;
+  font-family: Arial, sans-serif;
+}
+
+/* Style a heading */
+h1 {
+  color: blue;
+  text-align: center;
+}
+
+/* Style a paragraph */
+p {
+  color: #333;
+  font-size: 16px;
+}
+
+/* Style a button */
+button {
+  background-color: green;
+  color: white;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 5px;
+}
+
+button:hover {
+  background-color: darkgreen;
+}
